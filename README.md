@@ -1,0 +1,2 @@
+# lnews
+GitHub Pages
